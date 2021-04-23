@@ -1,0 +1,28 @@
+
+body { 
+    background: linear-gradient(#F00000, #DC281E); 
+    font-family: sans-serif; 
+} 
+button:hover { 
+    cursor: pointer; 
+    background-color: #73E831; 
+} 
+ul { 
+    list-style-type: none; 
+    /* get rid of bullet points on side of list items */ 
+}  
+h1 { 
+    color: #fff; 
+    font-size: 3rem; 
+} 
+.item { 
+    background-color: #fff; 
+    padding: 10px; 
+    font-size: 1.1rem; 
+} 
+#newFruit{
+    height: 20px;
+}
+#addButton{
+    height: 20px;
+}
